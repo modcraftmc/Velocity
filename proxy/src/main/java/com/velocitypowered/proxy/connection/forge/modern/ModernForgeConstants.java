@@ -25,7 +25,7 @@ public class ModernForgeConstants {
   /**
    * The version for forge handshakes.
    */
-  public static final String VERSION = "FML2";
+  public static final String VERSION = "FML3";
 
   /**
    * Clients attempting to connect to 1.13+ Forge servers will have
